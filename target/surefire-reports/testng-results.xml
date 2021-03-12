@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-12T15:55:47 EST" name="Command line suite" finished-at="2021-03-12T15:56:22 EST" duration-ms="34828">
+    <groups>
+    </groups>
+    <test started-at="2021-03-12T15:55:47 EST" name="Command line test" finished-at="2021-03-12T15:56:22 EST" duration-ms="34828">
+      <class name="com.smallProject.testCases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.smallProject.testCases.HomePageTest@2362f559]" started-at="2021-03-12T15:55:47 EST" name="setUp" finished-at="2021-03-12T15:56:04 EST" duration-ms="17278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickLoginButton()[pri:0, instance:com.smallProject.testCases.HomePageTest@2362f559]" started-at="2021-03-12T15:56:04 EST" name="clickLoginButton" finished-at="2021-03-12T15:56:06 EST" duration-ms="1449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLoginButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.smallProject.testCases.HomePageTest@2362f559]" started-at="2021-03-12T15:56:06 EST" name="tearDown" finished-at="2021-03-12T15:56:07 EST" duration-ms="1702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.smallProject.testCases.HomePageTest -->
+      <class name="com.smallProject.testCases.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.smallProject.testCases.LoginTest@b2c9a9c]" started-at="2021-03-12T15:56:07 EST" name="setUp" finished-at="2021-03-12T15:56:17 EST" duration-ms="9408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:com.smallProject.testCases.LoginTest@b2c9a9c]" started-at="2021-03-12T15:56:17 EST" name="loginTest" finished-at="2021-03-12T15:56:20 EST" duration-ms="3276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.smallProject.testCases.LoginTest@b2c9a9c]" started-at="2021-03-12T15:56:20 EST" name="tearDown" finished-at="2021-03-12T15:56:22 EST" duration-ms="1558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.smallProject.testCases.LoginTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
